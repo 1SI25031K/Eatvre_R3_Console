@@ -1,4 +1,4 @@
-# Latlas アカウント管理
+# Eatvre_R3_Console管理
 
 Latlas Teacher Dashboard と同じ Supabase プロジェクトに接続し、**ログイン情報（メール・パスワード）** と **`profiles` / `profile_affiliations`** を編集する Web アプリです。見た目は Latlas のダッシュボードトークン（`dashboard-theme-root` / `data-theme` / CSS 変数）に揃えています。ホームでは **Gemini** 経由の「Latlas AI for Account Center」（BETA）チャットを利用できます（API キーはサーバー環境変数のみ）。
 
